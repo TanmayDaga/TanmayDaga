@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="
-https://github-readme-stats.vercel.app/api?username=TanmayDaga&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Error"/>
+<pre>
+<h2>            GIT STATS                                TOP LANGS </h2>
+<img src="https://github-readme-stats.vercel.app/api?username=TanmayDaga&&show_icons=true" >         <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDaga">
+
+
+
+</pre>
