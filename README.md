@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=TanmayDaga&&show_icons=true" >         
 
-## TOP LANGS
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDaga">
+![GIT STATS](https://github-readme-stats.vercel.app/api?username=TanmayDaga&&show_icons=true&layout=compact&line_height=24&theme=swift&border_radius=15)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDaga&langs_count=10&layout=compact&theme=swift&border_radius=15&border_color=#000000)
+
+
 
 
 
