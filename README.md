@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-![GIT STATS](https://github-readme-stats.vercel.app/api?username=TanmayDaga&show=reviews,prs)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDaga)]
+![GIT STATS](https://github-readme-stats.vercel.app/api?username=TanmayDaga&show=reviews,prs&theme=radical)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDaga)]
 
 
 
