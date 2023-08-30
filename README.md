@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-![GIT STATS](https://github-readme-stats.vercel.app/api?username=TanmayDaga&&show_icons=true&layout=compact&line_height=24&theme=swift&border_radius=15&hide_title=true&hide_rank=true)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDaga&langs_count=10&layout=compact&theme=swift&border_radius=15&hide_title=true&border_color=#000000)
+![GIT STATS](https://github-readme-stats.vercel.app/api?username=TanmayDaga&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDaga&langs_count=10&layout=compact&theme=swift&border_radius=15&hide_title=true&border_color=#000000)
 
 
 
