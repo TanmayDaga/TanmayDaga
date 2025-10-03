@@ -17,8 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TanmayDaga&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
+
+## 🏆 GitHub Stats
 ![GIT STATS](https://github-readme-stats.vercel.app/api?username=TanmayDaga&show=reviews,prs&theme=shadow_green)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayDaga&&layout=donut)
+
+
 
 <table>
   <tr>
