@@ -47,6 +47,7 @@ Here are some ideas to get you started:
     <td>
       <img src="https://img.shields.io/badge/TailwindCSS-darkorange?style=flat&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/Shadcn_UI-darkorange?style=flat&logo=shadcnui&logoColor=white" />
+      <img src="https://img.shields.io/badge/EJS-darkorange?style=flat&logo=ejs&logoColor=white" />
       <img src="https://img.shields.io/badge/TanStack_Query-darkorange?style=flat&logo=reactquery&logoColor=white" />
       <img src="https://img.shields.io/badge/Formik-darkorange?style=flat&logo=formik&logoColor=white" />
       <img src="https://img.shields.io/badge/Zustand-darkorange?style=flat&logo=zustand&logoColor=white" />
@@ -56,11 +57,16 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td><strong>Tools</strong></td>
+    <td><strong>Developer Tools</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Zed-informational?style=flat&logo=zedindustries&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/npm-informational?style=flat&logo=npm&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sanity_CMS-informational?style=flat&logo=sanity&logoColor=white" />
     </td>
   </tr>
 </table>
